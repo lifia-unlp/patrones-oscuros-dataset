@@ -59,5 +59,5 @@ You may reuse this dataset provided appropriate credit is given.
 
 ## 🧾 Citation
 
-> Grigera, J., et al. (2025). *Patrones Oscuros: a Browser Extension for Detecting Dark Patterns in Spanish.* Dataset accompanying submission to ICSE Dark Software Workshop.  
+> Loza Bonora. L., et al. (2025). *Patrones Oscuros: a Browser Extension for Detecting Dark Patterns in Spanish.* Dataset accompanying submission to ICSE Dark Software Workshop.  
 > GitHub repository: <https://github.com/your-user/dark-patterns-es>
